@@ -1,0 +1,14 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.example.facerecognitionlibrary////PointingToDeclaration/facerecognitionlibrary/com.example.facerecognitionlibrary/index.html
+$dokka.location:com.example.facerecognitionlibrary/FaceRecognitionLibrary///PointingToDeclaration/facerecognitionlibrary/com.example.facerecognitionlibrary/-face-recognition-library/index.html
+$dokka.location:com.example.facerecognitionlibrary/FaceRecognitionLibrary/FaceRecognitionLibrary/#android.content.Context#androidx.appcompat.app.AppCompatActivity#kotlin.Int/PointingToDeclaration/facerecognitionlibrary/com.example.facerecognitionlibrary/-face-recognition-library/-face-recognition-library.html
+$dokka.location:com.example.facerecognitionlibrary/FaceRecognitionLibrary/bitmapToByteArray/#android.graphics.Bitmap/PointingToDeclaration/facerecognitionlibrary/com.example.facerecognitionlibrary/-face-recognition-library/bitmap-to-byte-array.html
+$dokka.location:com.example.facerecognitionlibrary/FaceRecognitionLibrary/getFaceDistance/#kotlin.DoubleArray#kotlin.DoubleArray/PointingToDeclaration/facerecognitionlibrary/com.example.facerecognitionlibrary/-face-recognition-library/get-face-distance.html
+$dokka.location:com.example.facerecognitionlibrary/FaceRecognitionLibrary/getFaceVector/#android.content.Context#kotlin.ByteArray/PointingToDeclaration/facerecognitionlibrary/com.example.facerecognitionlibrary/-face-recognition-library/get-face-vector.html
+$dokka.location:com.example.facerecognitionlibrary/FaceRecognitionLibrary/isSameUser/#kotlin.Double#kotlin.Double/PointingToDeclaration/facerecognitionlibrary/com.example.facerecognitionlibrary/-face-recognition-library/is-same-user.html
+$dokka.location:com.example.facerecognitionlibrary/FaceRecognitionLibrary/reachSeletedCount/#kotlin.DoubleArray/PointingToDeclaration/facerecognitionlibrary/com.example.facerecognitionlibrary/-face-recognition-library/reach-seleted-count.html
+$dokka.location:com.example.facerecognitionlibrary/FaceRecognitionLibrary/settingModule/#android.content.Context#androidx.appcompat.app.AppCompatActivity/PointingToDeclaration/facerecognitionlibrary/com.example.facerecognitionlibrary/-face-recognition-library/setting-module.html
+$dokka.location:com.example.facerecognitionlibrary/FaceRecognitionLibrary/startCamera/#android.content.Context#androidx.appcompat.app.AppCompatActivity#androidx.camera.core.Preview.SurfaceProvider#android.widget.TextView/PointingToDeclaration/facerecognitionlibrary/com.example.facerecognitionlibrary/-face-recognition-library/start-camera.html
+com.example.facerecognitionlibrary
+
